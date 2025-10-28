@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hi, I'm Sarmat Kachmazov
 
-<!--
-**SarmatKachmazov/SarmatKachmazov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> *“Genius is the patience of thought concentrated in a certain direction.”*
+— attributed to Isaac Newton (sometimes to Francis Bacon)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 About Me
+
+I study **Data Science** and **Machine Learning** not for the technology, but for understanding.  
+I’m interested in how data turns into knowledge and how patterns become meaningful models.  
+I don’t chase perfect accuracy — I care more about *why* a system behaves the way it does.  
+Sometimes the answer is in the formula, and sometimes in how you look at it.  
+
+To me, machine learning isn’t competition with the human mind — it’s a continuation of it.  
+It’s an attempt to explain the world through logic, patience, and observation.  
+I believe the purpose of any model is not prediction, but understanding.  
+Everything else is just a path toward clarity.
+
+---
+
+### ⚙️ Interests  
+
+**Machine Learning • Data Science • Research**  
+
+> Driven by curiosity.
